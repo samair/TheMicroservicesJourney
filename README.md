@@ -27,7 +27,8 @@ My journey to center of the microservices.
  
  Then i was fascinated with the world of annotation, how easy life becomes with them and naturally wanted to write one. As a result i wrote a small annotations creator.
  
- 3. https://github.com/samair/java_annotations.git : I heavily relied on a online tutorial 
+ 3. https://github.com/samair/java_annotations.git : I heavily relied on a online tutorial in order to finish this as i had no idea of what reflection really meant. At the end of writing this project i got a hang of what reflection is and how it could be used.
  
+ Now i have to get back to track, plan is to write another spring boot application , this time something with a bit of meat.
  
   
