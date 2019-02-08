@@ -13,7 +13,7 @@ My journey to center of the microservices.
   
   The very first thing i found quite fasicnating was Spring framework, (i know little of core-java) and thats where it all begins.
   
-  I start with spring mvc and move on further as the wind takes me.
+  I start with spring mvc and move on further in the direction wind takes me.
   
   
   
