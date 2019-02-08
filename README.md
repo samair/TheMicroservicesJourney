@@ -16,5 +16,18 @@ My journey to center of the microservices.
   I start with spring mvc and move on further in the direction wind takes me.
   
   
+  1. https://github.com/samair/spring-mvc.git : This is a simple spring mvc project, which creates a restcontroller and showcases the use of basic servlets etc.
   
+  2. https://github.com/samair/springboot.git : Once i understood the basics of spring, ofcourse only a thin part of mvc, i quickly deiced that i better change gears and hooked on to Spring boot. To my surprise writing application in spring boot is quite easy. If you are from Spring background, you will have a sigh of relief. A lot of boilerplate annotations go away, and you get to work on the real meat.
+ 
+ This application is again a simple rest server, with multiple endpoints. Idea here is to understand how i can use spring boot.
+ 
+ As a part of it, i used spring-data-cache, Redis in this case. It was too sleek and easy with few annotations.
+ This tutorial helped me understadn the real deal -> https://www.baeldung.com/spring-cache-tutorial
+ 
+ Then i was fascinated with the world of annotation, how easy life becomes with them and naturally wanted to write one. As a result i wrote a small annotations creator.
+ 
+ 3. https://github.com/samair/java_annotations.git : I heavily relied on a online tutorial 
+ 
+ 
   
