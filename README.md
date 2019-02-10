@@ -32,3 +32,15 @@ My journey to center of the microservices.
  Now i have to get back to track, plan is to write another spring boot application , this time something with a bit of meat.
  
  I stumbled upon this : http://www.springboottutorial.com/creating-microservices-with-spring-boot-part-1-getting-started
+ 
+ Above link was quite useful to kickoff my understanding of practical usage of spring boot.
+ 
+ As i started, i noticed that a lot stuff happen automatically, i no longer  need to define a configurations unlike spring mvc.
+ If you want to connect to a Database for example H2, you need not install it anymore, spring boot provides a handy embedded H2 data base if it finds the jar in the CLASSPATH.
+ 
+Found a good link which explains how this magic happens :
+http://www.springboottutorial.com/spring-boot-auto-configuration
+
+So, now i completed a small microservice which has its own embedded H2 database (RDBMS).
+
+
