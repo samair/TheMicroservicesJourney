@@ -15,7 +15,7 @@ My journey to center of the microservices.
   
   I start with spring mvc and move on further in the direction wind takes me.
   
-  
+ ### Day 1
  * [Spring MVC] This is a simple spring mvc project, which creates a restcontroller and showcases the use of basic servlets etc.
   
   2. https://github.com/samair/springboot.git : Once i understood the basics of spring, ofcourse only a thin part of mvc, i quickly deiced that i better change gears and hooked on to Spring boot. To my surprise writing application in spring boot is quite easy. If you are from Spring background, you will have a sigh of relief. A lot of boilerplate annotations go away, and you get to work on the real meat.
@@ -31,6 +31,7 @@ My journey to center of the microservices.
  
  Now i have to get back to track, plan is to write another spring boot application , this time something with a bit of meat.
  
+  ### Day 2
  I stumbled upon this : http://www.springboottutorial.com/creating-microservices-with-spring-boot-part-1-getting-started
  
  Above link was quite useful to kickoff my understanding of practical usage of spring boot.
@@ -41,6 +42,7 @@ My journey to center of the microservices.
 Found a good link which explains how this magic happens :
 http://www.springboottutorial.com/spring-boot-auto-configuration
 
+ ### Day 3
 So, now i completed a small microservice which has its own embedded H2 database (RDBMS).
 
 [Spring MVC]:  <https://github.com/samair/spring-mvc.git>
