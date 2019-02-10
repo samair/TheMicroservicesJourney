@@ -18,7 +18,7 @@ My journey to center of the microservices.
  ### Day 1
  * [Spring MVC] This is a simple spring mvc project, which creates a restcontroller and showcases the use of basic servlets etc.
   
- * : Once i understood the basics of spring, ofcourse only a thin part of mvc, i quickly deiced that i better change gears and hooked on to Spring boot. To my surprise writing application in spring boot is quite easy. If you are from Spring background, you will have a sigh of relief. A lot of boilerplate annotations go away, and you get to work on the real meat.
+ * [Spring Boot Basic] Once i understood the basics of spring, ofcourse only a thin part of mvc, i quickly deiced that i better change gears and hooked on to Spring boot. To my surprise writing application in spring boot is quite easy. If you are from Spring background, you will have a sigh of relief. A lot of boilerplate annotations go away, and you get to work on the real meat.
  
  This application is again a simple rest server, with multiple endpoints. Idea here is to understand how i can use spring boot.
  
