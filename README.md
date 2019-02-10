@@ -38,7 +38,7 @@ http://www.springboottutorial.com/spring-boot-auto-configuration
 
  ### Day 3
 So, now i completed a small microservice which has its own embedded H2 database (RDBMS).
-* [Srping Boot Service] : Is a simple microservice which has its own embbeded data base, where currency conversion values are stored.
+* [Srping Boot Service] : Is a simple microservice which has its own embbeded data base, where currency conversion-rate values are stored.
 
 [Spring MVC]:  <https://github.com/samair/spring-mvc.git>
 [Srping Boot Service]: <https://github.com/samair/Forex-Exchange-service.git>
