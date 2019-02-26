@@ -43,6 +43,10 @@ So, now i completed a small microservice which has its own embedded H2 database 
 ### Day 4
 * [Spring Boot Service with client]  I wrote another microservice, a simple one though, but communicating with another microservice.
 
+### Day 7
+* Well after a gap i started off again, now with intent to finish a basic set of microservices.
+
+
 [Spring MVC]:  <https://github.com/samair/spring-mvc.git>
 [Srping Boot Service]: <https://github.com/samair/Forex-Exchange-service.git>
 [Spring Boot Basic]: <https://github.com/samair/springboot.git >
