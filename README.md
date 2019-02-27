@@ -38,16 +38,28 @@ http://www.springboottutorial.com/spring-boot-auto-configuration
 
  ### Day 3
 So, now i completed a small microservice which has its own embedded H2 database (RDBMS).
-* [Srping Boot Service] : Is a simple microservice which has its own embbeded data base, where currency conversion-rate values are stored.
+* [Forex Exchange] : Is a simple microservice which has its own embbeded data base, where currency conversion-rate values are stored.
 
 ### Day 4
 * [Spring Boot Service with client]  I wrote another microservice, a simple one though, but communicating with another microservice.
 
 ### Day 7
 * Well after a gap i started off again, now with intent to finish a basic set of microservices.
-  ![Alt text](https://github.com/samair/TheMicroservicesJourney/blob/master/First_Microservice.png)
 
+A high level diagram below refers to my first project with microservices, idea was picked from [here]. It is not entirely as the referred source describes, but my own version. Basic idea is to have a currency conversion service. This service has two parts 
+1) [Forex Exchange] which i build on day 3 (refer above),
+    [Forex Exchange] registers to Eureka (Netflix OSS load balancer) as a client.
+2) [Conversion Serivce] which is the actual front end service, which could be used to convert one type of currency to another.
+
+
+
+
+  ![Alt text](https://github.com/samair/TheMicroservicesJourney/blob/master/First_Microservice.png)
+ 
+[here]: <http://www.springboottutorial.com>
 [Spring MVC]:  <https://github.com/samair/spring-mvc.git>
-[Srping Boot Service]: <https://github.com/samair/Forex-Exchange-service.git>
+[Forex Exchange]: <https://github.com/samair/Forex-Exchange-service.git>
 [Spring Boot Basic]: <https://github.com/samair/springboot.git >
+[Conversion Serivce]: <https://github.com/samair/conversionService.git>
+
 
