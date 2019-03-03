@@ -55,6 +55,11 @@ A high level diagram below refers to my first project with microservices, idea w
 
 
   ![Alt text](https://github.com/samair/TheMicroservicesJourney/blob/master/First_Microservice.png)
+  
+### Day 10
+New day new project, upskilling now
+
+![Alt text](https://github.com/samair/TheMicroservicesJourney/blob/master/Bank_Project.png)
  
 [here]: <http://www.springboottutorial.com>
 [Spring MVC]:  <https://github.com/samair/spring-mvc.git>
