@@ -69,7 +69,7 @@ Next step is to create Account Service, plan is to use elastic serach. Using [th
 
 ### Day 12
 Deployed Qoute service in GCE 
-User guide to deploy @GCE 
+[User guide to deploy @GCE]
  
 [here]: <http://www.springboottutorial.com>
 [Spring MVC]:  <https://github.com/samair/spring-mvc.git>
