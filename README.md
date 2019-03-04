@@ -67,6 +67,9 @@ Which takes a Stock symbol and returns the current price.
 
 Next step is to create Account Service, plan is to use elastic serach. Using [this online es example]
 
+### Day 12
+Deployed Qoute service in GCE 
+User guide to deploy @GCE 
  
 [here]: <http://www.springboottutorial.com>
 [Spring MVC]:  <https://github.com/samair/spring-mvc.git>
@@ -75,4 +78,5 @@ Next step is to create Account Service, plan is to use elastic serach. Using [th
 [Conversion Serivce]: <https://github.com/samair/conversionService.git>
 [Quote Service]: <https://github.com/samair/Quote-Service.git>
 [this online es example]: <https://www.journaldev.com/18148/spring-boot-elasticsearch>
+[User guide to deploy @GCE ]: <https://codelabs.developers.google.com/codelabs/cloud-app-engine-springboot/index.html?index=..%2F..index#0>
 
