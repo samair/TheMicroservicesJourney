@@ -60,11 +60,19 @@ A high level diagram below refers to my first project with microservices, idea w
 New day new project, upskilling now
 
 ![Alt text](https://github.com/samair/TheMicroservicesJourney/blob/master/Bank_Project.png)
+
+### Day 11
+Finished writing a simple quote [Quote Service].
+Which takes a Stock symbol and returns the current price. 
+
+Next step is to create Account Service, plan is to use elastic serach. Using [this online es example]
+
  
 [here]: <http://www.springboottutorial.com>
 [Spring MVC]:  <https://github.com/samair/spring-mvc.git>
 [Forex Exchange]: <https://github.com/samair/Forex-Exchange-service.git>
 [Spring Boot Basic]: <https://github.com/samair/springboot.git >
 [Conversion Serivce]: <https://github.com/samair/conversionService.git>
-
+[Quote Service]: <https://github.com/samair/Quote-Service.git>
+[this online es example]: <https://www.journaldev.com/18148/spring-boot-elasticsearch>
 
