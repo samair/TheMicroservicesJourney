@@ -71,6 +71,9 @@ Next step is to create Account Service, plan is to use elastic serach. Using [th
 Deployed Qoute service in GCE 
 [User guide to deploy @GCE]
  
+### Day 15
+How to deploy redis in [google cloud]
+
 [here]: <http://www.springboottutorial.com>
 [Spring MVC]:  <https://github.com/samair/spring-mvc.git>
 [Forex Exchange]: <https://github.com/samair/Forex-Exchange-service.git>
@@ -79,4 +82,5 @@ Deployed Qoute service in GCE
 [Quote Service]: <https://github.com/samair/Quote-Service.git>
 [this online es example]: <https://www.journaldev.com/18148/spring-boot-elasticsearch>
 [User guide to deploy @GCE ]: <https://codelabs.developers.google.com/codelabs/cloud-app-engine-springboot/index.html?index=..%2F..index#0>
+[google cloud]: <https://cloud.google.com/memorystore/docs/redis/quickstart-gcloud>
 
