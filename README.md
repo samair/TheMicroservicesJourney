@@ -74,9 +74,9 @@ Deployed Qoute service in GCE
 ### Day 15
 How to deploy redis in [google cloud]
 
-#Reboot
+# Reboot
 
-Tracking my journey with AWS.
+Tracking my journey with AWS [aws journey]
 
 [here]: <http://www.springboottutorial.com>
 [Spring MVC]:  <https://github.com/samair/spring-mvc.git>
@@ -87,4 +87,4 @@ Tracking my journey with AWS.
 [this online es example]: <https://www.journaldev.com/18148/spring-boot-elasticsearch>
 [User guide to deploy @GCE ]: <https://codelabs.developers.google.com/codelabs/cloud-app-engine-springboot/index.html?index=..%2F..index#0>
 [google cloud]: <https://cloud.google.com/memorystore/docs/redis/quickstart-gcloud>
-
+[aws journey]:<>
