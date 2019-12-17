@@ -74,6 +74,10 @@ Deployed Qoute service in GCE
 ### Day 15
 How to deploy redis in [google cloud]
 
+#Reboot
+
+Tracking my journey with AWS.
+
 [here]: <http://www.springboottutorial.com>
 [Spring MVC]:  <https://github.com/samair/spring-mvc.git>
 [Forex Exchange]: <https://github.com/samair/Forex-Exchange-service.git>
