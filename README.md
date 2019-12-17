@@ -87,4 +87,4 @@ Tracking my journey with AWS [aws journey]
 [this online es example]: <https://www.journaldev.com/18148/spring-boot-elasticsearch>
 [User guide to deploy @GCE ]: <https://codelabs.developers.google.com/codelabs/cloud-app-engine-springboot/index.html?index=..%2F..index#0>
 [google cloud]: <https://cloud.google.com/memorystore/docs/redis/quickstart-gcloud>
-[aws journey]:<>
+[aws journey]:<https://github.com/samair/TheMicroservicesJourney/blob/master/aw.md>
