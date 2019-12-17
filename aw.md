@@ -1,2 +1,6 @@
 # AWS Journey
 
+Started with a [awesomeday webnair]
+
+
+[awesomeday webnair]:<https://aws.amazon.com/events/awsome-day/awsome-day-online/?sc_channel=em&sc_campaign=APAC_field_T1_awsome-day-en_20191106&sc_publisher=aws&sc_medium=em_awsomeday_online&sc_content=event_t1event_field&sc_country=mult&sc_geo=apac&sc_category=mult&sc_outcome=event&trkCampaign=awsome-day-online&trk=em_awsomeday_Q4_en_od_inv_1&mkt_tok=eyJpIjoiWVdFNE5XTXhPVFZrTlRrdyIsInQiOiJOdzBIOExUdjhvSENCWEpIMkVvdE9uZFdHV0lmV0xlNGk2a1NVaTlldlBwaWI0QWNhOVhxM0ZLVmRWNnZYOE5sUTVxQlljMjQ5d3d2RjNSUlRqTExGRW5LNU1MNzZ2Y01zdDIzb0l0ZWNYNmw4SFhyUjE5ODAwQ3YxMTd1Y21sREtZUWJMaGVwRnNRT0Y0TUZjUHJQN2c9PSJ9>
