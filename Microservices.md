@@ -31,7 +31,7 @@ kind: KongPlugin
 metadata:
   name: global-rate-limit
   labels:
-    global: \"true\"
+    global: "true"
 config:
   minute: 5
   policy: local
