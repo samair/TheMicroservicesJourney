@@ -22,6 +22,21 @@ Here is a list of common concerns handled by API gateways:
 - Horizontal [Auto Scaling]
 - Kong [on kubernetes]
 
+## All About kong
+
+Create a Rate limiting pluggin for Kong ingress:
+```
+apiVersion: configuration.konghq.com/v1
+kind: KongPlugin
+metadata:
+  name: global-rate-limit
+  labels:
+    global: \"true\"
+config:
+  minute: 5
+  policy: local
+plugin: rate-limiting
+```
 [on Kubernetes]:<https://github.com/Kong/kubernetes-ingress-controller/blob/master/docs/guides/getting-started.md>
 
 [Auto Scaling]:<https://www.youtube.com/watch?v=y9CYnjlWKok&t=370s>
