@@ -8,6 +8,7 @@ For a Developer
 - Use [elastic beanstalk]
 - Create a [modern App with AWS]
 - Add [Environment Variables in Lambda] 
+
 [Environment Variables in Lambda]: <https://docs.aws.amazon.com/lambda/latest/dg/configuration-envvars.html>
 [modern App with AWS]:<https://github.com/aws-samples/aws-modern-application-workshop/tree/go>
 [elastic beanstalk]:<https://dzone.com/articles/run-your-spring-boot-application-on-aws-using-elas>
