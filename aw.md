@@ -9,6 +9,10 @@ For a Developer
 - Create a [modern App with AWS]
 - Add [Environment Variables in Lambda] 
 
+Set up [eclipse with AWS toolkit]
+
+[eclipse with AWS toolkit]: <https://docs.aws.amazon.com/toolkit-for-eclipse/v1/user-guide/setup-install.html>
+
 [Environment Variables in Lambda]: <https://docs.aws.amazon.com/lambda/latest/dg/configuration-envvars.html>
 [modern App with AWS]:<https://github.com/aws-samples/aws-modern-application-workshop/tree/go>
 [elastic beanstalk]:<https://dzone.com/articles/run-your-spring-boot-application-on-aws-using-elas>
